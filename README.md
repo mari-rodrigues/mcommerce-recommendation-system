@@ -1,8 +1,6 @@
 # mcommerce-recommendation-system
 Content-based recommendation system for mCommerce apps (TF-IDF). Data project focused on marketing analytics and user behavior
 
-# Brazilian mCommerce App Recommender
-
 This project is based on my MBA final thesis in Data Science & Analytics (USP, 2023). The goal was to analyze Brazilian Android users of shopping apps and create a content-based recommendation system to increase the visibility of lesser-known apps.
 
 ## Project Objective
