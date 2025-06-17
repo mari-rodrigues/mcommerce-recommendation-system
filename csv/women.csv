@@ -1,0 +1,107 @@
+,rank,age_code,gender_code,product_name,audience_percentage,product_package,total_active_users,active_users,sub_genre
+6,1,all,female,SHEIN-Fashion Shopping Online,0.831309795,com.zzkko,19157963,15926202,E-Commerce (Retailer)
+15,2,all,female,Shopee: Compre de Tudo Online,0.57,com.shopee.br,44589200,25415844,E-Commerce (C2C)
+41,4,all,female,Magalu: loja e compras online,0.557236791,com.luizalabs.mlapp,21192916,11809473,E-Commerce (B2C)
+57,5,all,female,Americanas: compras online,0.583464265,com.b2w.americanas,23795465,13883803,E-Commerce (B2C)
+83,7,all,female,Casas Bahia: Compras Online,0.558918417,com.novapontocom.casasbahia,10986033,6140296,E-Commerce (B2C)
+108,10,all,female,O Boticário,0.71906507,com.boticario.mobile,2867351,2061812,E-Commerce (Retailer)
+127,11,all,female,MadeiraMadeira: compras online,0.654906392,br.com.madeiramadeira,295906,193791,E-Commerce (Retailer)
+134,12,all,female,enjoei: comprar e vender roupa,0.694722951,br.com.enjoei.app,4574141,3177761,E-Commerce (Retailer)
+185,16,all,female,Zattini: Loja de roupas online,0.801204085,br.com.zattini,1866690,1495600,E-Commerce (B2C)
+199,17,all,female,Shoptime: Compras online,0.578428149,com.b2w.shoptime,2805321,1622677,E-Commerce (B2C)
+211,18,all,female,Lojas Renner - Comprar Roupas,0.762451351,br.com.lojasrenner,5173413,3944476,E-Commerce (Retailer)
+216,19,all,female,Natura: perfumes e cosméticos,0.775924861,net.natura.semprepresente,1216553,943954,E-Commerce (Retailer)
+237,20,all,female,Época Cosméticos e Maquiagens,0.850565076,com.mobfiq.epocacosmeticos,421845,358807,E-Commerce (B2C)
+259,22,all,female,Riachuelo – Compre pelo app,0.687375009,br.com.riachuelo.app,2250659,1547047,E-Commerce (Retailer)
+276,25,all,female,Beleza na Web: Cosméticos,0.804227412,br.com.belezanaweb.android,304119,244581,E-Commerce (B2C)
+290,27,all,female,Havan,0.711351037,com.artech.eaplic.havan,1333685,948718,E-Commerce (B2C)
+309,29,all,female,Cobasi,0.61259824,com.root.cobasi.Activities,393492,241053,E-Commerce (Retailer)
+330,31,all,female,Extra: Loja Online e Ofertas,0.587513924,com.novapontocom.extra,2400034,1410053,E-Commerce (B2C)
+337,33,all,female,"Loja C&A: Roupas, Sapatos e +",0.859816849,br.com.cea.appb2c,2186206,1879737,E-Commerce (Retailer)
+369,35,all,female,Marisa: Moda e Comprar Roupas,0.810710251,br.com.marisa.android,1741080,1411511,E-Commerce (Retailer)
+381,36,all,female,PatPat - Kids & Baby Clothing,0.884394109,com.interfocusllc.patpat,299204,264614,E-Commerce (Retailer)
+386,37,all,female,Petz: Pet shop Online,0.62404877,br.com.petz,1585552,989462,E-Commerce (B2C)
+400,39,all,female,Tok&Stok: Móveis e Decoração,0.752502143,com.tokstok.app,190974,143708,E-Commerce (Retailer)
+417,40,all,female,Urbanic - Fashion from London,0.891547203,com.urbanic.multis,343183,305964,E-Commerce (Retailer)
+431,42,all,female,Pernambucanas,0.646308839,br.com.pernambucanas.varejo.android,160552,103766,E-Commerce (Retailer)
+439,43,all,female,Loja Online Samsung,0.523523271,com.samsung.shop,536022,280620,E-Commerce (Retailer)
+447,44,all,female,Revendedor O Boticário,0.807379961,br.com.grupoboticario.boticariorepresentante,223389,180360,E-Commerce (C2C)
+474,49,all,female,"Dafiti: roupas, sapatos, decor",0.775414765,br.com.dafiti,3005423,2330449,E-Commerce (B2C)
+481,50,all,female,Pão de Açúcar Mais,0.569387436,br.com.paodeacucarmais,2506095,1426939,Coupons & Rewards
+512,52,all,female,Cuponomia: Cupons e Cashback,0.715214312,com.cuponomia,242254,173264,Coupons & Rewards
+526,55,all,female,Arezzo,0.715496182,br.com.arezzo,87922,62908,E-Commerce (Retailer)
+562,59,all,female,Posthaus | Liquida Verão,0.843528509,br.com.supero.posthaus.site,266842,225089,E-Commerce (Retailer)
+581,63,all,female,Elo7: Produtos Personalizados,0.860375047,br.com.elo7.appbuyer,361705,311202,E-Commerce (C2C)
+594,64,all,female,Petlove - O app do seu pet,0.689647555,br.com.petlove.petlove,424288,292609,E-Commerce (B2C)
+623,69,all,female,Polishop: Ofertas de Verão,0.647306383,br.com.projetopolishop.mobile,75784,49055,E-Commerce (B2C)
+650,74,all,female,Camicado,0.880833745,br.com.camicado.mobile,138852,122306,E-Commerce (Retailer)
+669,75,all,female,Zara,0.818018496,com.inditex.zara,97602,79840,E-Commerce (Retailer)
+672,76,all,female,Privalia: Maior Outlet Online,0.771501839,com.privalia.br,348290,268706,E-Commerce (Retailer)
+688,77,all,female,Multi: Descontos nos Shoppings,0.539177179,br.com.multiplan.mind.multishopping,121043,65264,Coupons & Rewards
+700,78,all,female,Le biscuit: Comprar online,0.638059735,br.com.lebiscuit,35492,22646,E-Commerce (B2C)
+712,80,all,female,FARM,0.919807077,br.com.farmrio.app,55689,51223,E-Commerce (Retailer)
+735,83,all,female,Catálogos Hiroshima - HiroApp,0.52690661,com.hiro.hiroapp.hiroshimasd,18712,9859,Other Shopping
+754,85,all,female,SCHUTZ,0.937157154,br.com.arezzo.schutz,47316,44343,E-Commerce (Retailer)
+767,86,all,female,Tenda Atacado,0.551920652,com.root.tendadrive.Activities,22349,12335,Other Shopping
+776,87,all,female,Lojas Torra - Compre online,0.694422126,br.com.app.torra,72489,50338,E-Commerce (Retailer)
+807,93,all,female,hibobi-Kids Fashion Online,0.981128633,com.hibobi.store,54574,53544,E-Commerce (Retailer)
+823,96,all,female,Tricae - Loja Online de Roupas,0.82969451,br.com.tricae,40459,33569,E-Commerce (Retailer)
+843,98,all,female,AMARO: Comprar Moda e Beleza,0.817983687,amaro.amaroandroid,86133,70455,E-Commerce (Retailer)
+862,99,all,female,Novo Mundo,0.698438466,com.kobe.novoMundo,51187,35751,E-Commerce (B2C)
+874,100,all,female,Anacapri,0.955305338,br.com.anacapri,45683,43641,E-Commerce (Retailer)
+910,105,all,female,Kit Escolar DUEPAY,0.558383703,com.duepay.kit_escolar_app,49548,27667,Other Shopping
+930,109,all,female,Sodimac: Hogar y Construcción,0.715980291,cl.sodimac,76875,55041,E-Commerce (B2C)
+946,112,all,female,Avon - Loja de Beleza Brasil,0.677915514,com.avon.br.b2c.store,28306,19189,E-Commerce (Retailer)
+971,115,all,female,Drogaria Araujo,0.595515966,com.araujo.araujoapp,75257,44817,Pharmacy & Drugstore
+981,116,all,female,Hering,0.6750229,br.com.hering,40085,27058,E-Commerce (Retailer)
+1009,122,all,female,Lojas Pompéia – Moda Fashion,0.616217375,pompeia.com.br.pompia,44355,27332,E-Commerce (Retailer)
+1054,128,all,female,Facily: Compra Online e Oferta,0.566374481,com.facily,2851132,1614808,E-Commerce (C2C)
+1058,129,all,female,SEPHORA,0.86590308,latam.sephora.sephorabr,29377,25438,E-Commerce (Retailer)
+1070,130,all,female,Shopping List - SoftList,0.578710914,br.com.ridsoftware.shoppinglist,184274,106641,Other Shopping
+1083,131,all,female,Shopping List - Simple & Easy,0.771755159,com.icedblueberry.shoppinglisteasy,48657,37551,Other Shopping
+1127,137,all,female,ZZ MALL,0.690700829,br.com.arezzoco.marketplacezz,4284,2959,E-Commerce (B2C)
+1141,139,all,female,App Romance,0.720640957,br.com.romancemoda.photobook,7397,5331,E-Commerce (C2C)
+1167,141,all,female,Gira: Atacado de Roupas Online,0.848908782,com.canaldstak,40937,34752,Resell
+1220,145,all,female,Mimoo,0.721892417,dev.mimoo.mobile,41470,29937,E-Commerce (Retailer)
+1256,149,all,female,Zee.Now - Pet Shop Delivery,0.668982446,br.com.zeenow.zeenow,46660,31215,E-Commerce (B2C)
+1268,150,all,female,Gelt: Ganar dinero desde casa,0.797703743,com.mdfactory.gelt,41720,33280,Coupons & Rewards
+1278,151,all,female,Carajás,0.590247035,carajas.carajas,11503,6790,E-Commerce (Retailer)
+1320,155,all,female,Grocery Shopping List Listonic,0.527501524,com.l,70193,37027,Coupons & Rewards
+1333,160,all,female,Babadotop: Moda e Beleza,0.944714069,com.mobfiq.babadotop,4587,4333,E-Commerce (Retailer)
+1356,163,all,female,Dinerama: Cashback no Mercado,0.919848979,br.com.dinerama,83198,76530,Coupons & Rewards
+1378,164,all,female,"Buscar Rural - Comprar, vender",0.642078579,br.com.buscar.rural,7270,4668,Resell
+1408,170,all,female,Avon Compras Online,0.926847935,com.avoncomprasonline,5230,4847,E-Commerce (Retailer)
+1423,172,all,female,DeMillus,0.936225355,br.com.demillus.www.portalrevendedora,46672,43696,E-Commerce (Retailer)
+1446,174,all,female,Kalunga,0.698635101,com.kalunga.app,25806,18029,E-Commerce (Retailer)
+1482,179,all,female,LightInTheBox Online Shopping,0.842278957,com.lightinthebox.android,15171,12778,E-Commerce (Retailer)
+1495,180,all,female,Soub!,0.551745415,com.b2w.soubarato,83842,46259,E-Commerce (B2C)
+1521,185,all,female,Império Móveis e Eletro,0.604881167,br.com.neomode.imperio,9573,5791,E-Commerce (Retailer)
+1528,191,all,female,ZINZANE,0.96495527,com.mobfiq.zinzane,30736,29659,E-Commerce (Retailer)
+1577,208,all,female,Moda Center,0.850625694,br.com.modacenter.appoficial,9047,7696,E-Commerce (B2C)
+1595,210,all,female,Hirota em Casa,0.575298429,hirotafood.vorticeportal.com.br,16372,9419,E-Commerce (Retailer)
+1613,215,all,female,Oba Hortifruti,0.510333359,com.oba.hortifruti.app,21143,10790,E-Commerce (Retailer)
+1624,217,all,female,Westwing - Casa e Decoração,0.885474503,br.westwing.android,91643,81148,E-Commerce (Retailer)
+1637,219,all,female,C&C Casa e Construção,0.536428988,br.com.cec,5926,3179,E-Commerce (Retailer)
+1659,227,all,female,Etsy: Custom & Creative Goods,0.749111414,com.etsy.android,28286,21189,E-Commerce (C2C)
+1695,238,all,female,ROMWE - Ultimate Cyber Mall,0.959607303,com.romwe,5074,4869,E-Commerce (Retailer)
+1712,240,all,female,Droper Sneakers & Streetwear,0.547009945,com.s9.cataloko,19447,10638,E-Commerce (C2C)
+1719,241,all,female,Rio Vermelho Atacadista,0.805872619,com.VRSoft.G280,36127,29114,E-Commerce (Retailer)
+1736,243,all,female,Lojas REDE,0.875810742,com.lojasrede.mobile,23903,20935,E-Commerce (Retailer)
+1747,247,all,female,NorteShopping,0.546925724,br.com.brmalls.customer.norteshopping,17723,9693,E-Commerce (B2C)
+1793,256,all,female,Animale - Moda Feminina,0.738659799,br.com.animale,12402,9161,E-Commerce (Retailer)
+1802,258,all,female,Plaza Shopping Niterói,0.839614987,br.com.brmalls.customer.plazaniteroi,18614,15629,E-Commerce (B2C)
+1834,261,all,female,Weverse Shop,0.895337641,co.benx.weply,14060,12588,E-Commerce (B2C)
+1846,267,all,female,Lazada - Online Shopping App!,0.588090599,com.lazada.android,8960,5269,E-Commerce (C2C)
+1868,269,all,female,Buy cell phones for cheap,0.584688902,com.boulla.cellphone,26035,15222,E-Commerce (C2C)
+1879,273,all,female,Smart Closet - Fashion Style,0.999852717,com.rkk.closet,4122,4121,E-Commerce (Retailer)
+1890,278,all,female,Joom. Shopping for every day,0.602559626,com.joom,6803,4099,E-Commerce (B2C)
+1900,279,all,female,Lidl - Offers & Leaflets,0.947852969,de.sec.mobile,3283,3112,E-Commerce (Retailer)
+1913,281,all,female,AppNana - Gift Cards,0.814701498,com.appnana.android.giftcardrewards,5460,4448,Coupons & Rewards
+1938,285,all,female,Wanna Kicks : AR sneakers try ,0.96598953,by.wanna.apps.wsneakers,15383,14860,E-Commerce (Retailer)
+1999,306,all,female,Bershka: Fashion & trends,0.99901408,com.inditex.ecommerce.bershka,3807,3803,E-Commerce (Retailer)
+2012,316,all,female,Meu Paulistão,0.659074128,br.com.dmcard.paulistao,12111,7982,E-Commerce (Retailer)
+2032,325,all,female,Lista de Compras - List,0.99184233,br.com.up.list,19675,19514,Other Shopping
+2044,337,all,female,That Shopping List,0.974892616,de.markusliebschner.thatlist,17882,17433,Other Shopping
+2061,338,all,female,Shopping list voice input PRO,0.749009311,com.tksolution.einkaufszettelmitspracheingabepro,3235,2423,Other Shopping
+2073,339,all,female,Our Groceries Shopping List,0.849987507,com.headcode.ourgroceries,21275,18083,Other Shopping
+2081,341,all,female,Shopping list — Lister,0.991659761,com.DramaProductions.Einkaufen5,13254,13143,Other Shopping

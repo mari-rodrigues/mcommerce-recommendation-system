@@ -1,0 +1,66 @@
+,rank,age_code,gender_code,product_name,audience_percentage,product_package,total_active_users,active_users,sub_genre
+33,3,all,male,Mercado Libre: Compras Online,0.57267189,com.mercadolibre,41144943,23562552,E-Commerce (C2C)
+63,6,all,male,Amazon Shopping,0.517641187,com.amazon.mShop.android.shopping,19012526,9841667,E-Commerce (B2C)
+92,8,all,male,AliExpress,0.563908935,com.alibaba.aliexpresshd,20700695,11673307,E-Commerce (B2C)
+101,9,all,male,OLX - Venda e Compra Online,0.660075486,com.schibsted.bomnegocio.androidApp,18685367,12333753,Resell
+153,13,all,male,Netshoes: Loja de Esportes,0.55,br.com.netshoes.app,5495372,3022455,E-Commerce (Retailer)
+164,14,all,male,Alibaba.com - B2B marketplace,0.606635273,com.alibaba.intl.android.apps.poseidon,1036349,628686,Other Shopping
+249,21,all,male,Centauro: loja de esportes,0.646845102,br.com.sbf.centauro,2184815,1413237,E-Commerce (B2C)
+316,30,all,male,Submarino: Compras Online,0.584626794,com.b2w.submarino,3198037,1869658,E-Commerce (B2C)
+348,34,all,male,Decathlon: Loja de Esportes,0.535418212,br.com.decathlon,215533,115400,E-Commerce (Retailer)
+463,45,all,male,Leroy Merlin Brasil,0.528066158,br.com.leroymerlin,133502,70498,E-Commerce (B2C)
+495,51,all,male,CrmBonus,0.531778693,com.br.crmbonus.app,146028,77655,Coupons & Rewards
+530,56,all,male,"Zoom: Compare preços, Cashback",0.521406293,com.zoom.zoomandroid,3239836,1689271,Coupons & Rewards
+573,62,all,male,"Buscapé: Menor preço, Cashback",0.612233698,br.com.buscape.MainPack,1604701,982452,Other Shopping
+607,65,all,male,Loja do Mecânico,0.650280893,br.com.gurgelmix.lojadomecanico_app,185151,120400,E-Commerce (B2C)
+631,70,all,male,Fast Shop,0.565478146,br.com.fastshop.ecommerce.beta,163864,92662,E-Commerce (Retailer)
+643,72,all,male,Promobit: Promoções e Cupons,0.596326113,br.com.promobit.app,525769,313530,Coupons & Rewards
+728,81,all,male,KaBuM! Compre Online,0.740743399,br.com.kabum.webviewapp,634226,469799,E-Commerce (Retailer)
+787,89,all,male,Clube Extra,0.513790906,br.com.clubeextra,376388,193385,Coupons & Rewards
+797,92,all,male,Banggood - Online Shopping,0.744798958,com.banggood.client,248551,185121,E-Commerce (B2C)
+828,97,all,male,Bemol,0.794543505,com.bemol.commerce.android.apps.mobile,80293,63796,E-Commerce (Retailer)
+879,101,all,male,eBay Shop: Buying & Selling,0.713009119,com.ebay.mobile,313826,223761,E-Commerce (C2C)
+894,104,all,male,Made-in-China B2B Trade Online,0.601695478,com.madeinchina.b2b.trade,12044,7247,E-Commerce (C2C)
+923,106,all,male,Pechinchou Promoções e Ofertas,0.659532964,br.com.pechinchou.pechinchou,14370,9477,Coupons & Rewards
+948,113,all,male,iHerb,0.525788486,com.iherb,102240,53757,E-Commerce (B2C)
+991,118,all,male,Tiendeo - Deals & Weekly Ads,0.717952669,com.geomobile.tiendeo,39876,28629,Coupons & Rewards
+1005,121,all,male,Farmácia Preço Popular,0.648282528,com.mobfiq.precopopular,17214,11160,Pharmacy & Drugstore
+1029,126,all,male,Kanui: Compre Tênis e Roupa de,0.716394007,br.com.kanui,125191,89686,E-Commerce (B2C)
+1035,127,all,male,Gazin: Compras Online,0.722180903,com.b2capp,13416,9689,E-Commerce (Retailer)
+1096,132,all,male,Lojas Colombo,0.937376559,br.com.colombo.app,2097,1966,E-Commerce (Retailer)
+1138,138,all,male,Compras Paraguai,0.797365725,br.com.mobileasy.comprasparaguai,51281,40890,Other Shopping
+1159,140,all,male,Muni: ¡Ganar dinero extra!,0.778614044,com.muni.android,18225,14190,Other Shopping
+1176,142,all,male,Multilaser: Loja Online,0.608034968,penseavanti.com.br.app2shop_multilaser,6602,4014,E-Commerce (Retailer)
+1190,143,all,male,Ri Happy,0.562551141,br.com.rihappy.meusolzinho,15966,8982,E-Commerce (B2C)
+1202,144,all,male,VirtusPay Boleto Parcelado,0.731220663,com.virtuspay.virtus_app_tomador,82967,60667,BNPL
+1235,147,all,male,DHgate-online wholesale stores,0.771419764,com.dhgate.buyermob,5635,4347,Other Shopping
+1247,148,all,male,Pelando: promoções e cupons,0.781276763,com.tippingcanoe.pelando,390751,305285,Coupons & Rewards
+1288,152,all,male,FARFETCH — Designer Shopping,0.607118189,com.farfetch.farfetchshop,7112,4318,E-Commerce (Retailer)
+1299,153,all,male,Aramis Loja de Roupa Masculina,0.769576252,com.mobfiq.aramis,9813,7552,E-Commerce (Retailer)
+1319,154,all,male,FutFanatics,0.719686925,com.futfanatics,38114,27430,E-Commerce (Retailer)
+1351,162,all,male,Lojas Lebes,0.642203033,br.com.lebes.app,23046,14800,E-Commerce (Retailer)
+1387,165,all,male,Martinello,0.547715724,com.martinello.martinello,10885,5962,E-Commerce (Retailer)
+1399,169,all,male,Mateus App,0.749617219,com.ithappens.maismateus,19958,14961,E-Commerce (Retailer)
+1428,173,all,male,Lojas Quero-Quero,0.973488271,br.com.queroquero.ecommerce,10841,10554,E-Commerce (Retailer)
+1455,176,all,male,Feito,0.869333804,com.app.feito,16073,13973,Coupons & Rewards
+1467,178,all,male,AiHelper: Sales and Parcels,0.615916491,com.xyz.alihelper,35466,21844,E-Commerce (C2C)
+1510,182,all,male,Atacadão Folhetos,0.909369707,com.nenedir.atacfolhetos,2805,2551,E-Commerce (Retailer)
+1546,202,all,male,AppSales,0.801668167,net.tsapps.appsales,40662,32597,E-Commerce (C2C)
+1549,205,all,male,Lojas Marabraz,0.99900347,com.app.marabraz,1337,1336,E-Commerce (Retailer)
+1560,206,all,male,Lyst: Shop Fashion Brands,0.546856403,com.lyst.lystapp,9332,5103,E-Commerce (Retailer)
+1606,211,all,male,Magazine Médica,0.64878881,br.com.twa.magazinemedica,12388,8037,E-Commerce (Retailer)
+1649,221,all,male,Mooca Plaza Shopping: Compras ,0.529646695,br.com.brmalls.customer.moocaplaza,31932,16913,E-Commerce (Retailer)
+1678,228,all,male,Zeuss App,0.861397207,com.tarkuss.zeus,12595,10849,Coupons & Rewards
+1687,236,all,male,Peruzzo Mais,0.649859428,com.peruzzomais.izio,14055,9134,E-Commerce (Retailer)
+1758,250,all,male,Cornershop for Shoppers,0.908580184,com.cornershopapp.shopper.android,7453,6772,E-Commerce (B2C)
+1773,253,all,male,Vivara,0.620488882,tellerina.com.br.vivara,7455,4626,E-Commerce (Retailer)
+1786,255,all,male,Nosso Caetano,0.77484715,br.com.smcaetano.appcaetano,20711,16048,E-Commerce (Retailer)
+1817,260,all,male,Mangos: Cashback em Mercados,0.62367934,br.com.priced.mangos,28066,17504,Coupons & Rewards
+1848,268,all,male,Tiendamia. Del mundo a tu puer,0.803993881,com.tiendamia.android,8250,6633,E-Commerce (B2C)
+1925,282,all,male,Xb Deals: Track Game Prices,0.940744579,com.xbox_deals.sales,23192,21818,Coupons & Rewards
+1952,286,all,male,"G2A - Games, Gift Cards & More",0.984620988,com.g2a.marketplace,6437,6338,E-Commerce (B2C)
+1957,288,all,male,Fashion Nova,0.999502301,co.tapcart.app.npQt0DXZpj,2985,2984,E-Commerce (Retailer)
+1976,294,all,male,淘宝,0.630209088,com.taobao.taobao,4448,2803,E-Commerce (C2C)
+1980,303,all,male,Newchic - Fashion Online,0.753690362,com.newchic.client,2850,2148,E-Commerce (Retailer)
+2019,324,all,male,StockX- Access the Now,0.936171055,com.stockx.stockx,3246,3039,E-Commerce (C2C)
+2088,344,all,male,Menores Preços Dudu Rocha,0.99105233,com.influesolutions.influeassistant.dudurocha,3166,3138,E-Commerce (B2C)
