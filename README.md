@@ -17,7 +17,7 @@ This project is based on my MBA final thesis in Data Science & Analytics (USP, 2
 - NLP pre-processing (Spacy)
 - Python (Pandas, Numpy, Scikit-learn)
 
-## Dataset Overview (simulated)
+## Dataset Overview
 
 - App performance (downloads, active users, sessions)
 - Demographics (gender, age group)
